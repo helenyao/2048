@@ -756,8 +756,8 @@ hr {
     -ms-transform: translate(202px, 202px);
     transform: translate(202px, 202px); }
 
-  .tile .tile-inner {
-    font-size: 35px; }
+  /*.tile .tile-inner {
+    font-size: 35px; }*/
 
   .game-message p {
     font-size: 30px !important;
