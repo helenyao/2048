@@ -60,8 +60,8 @@ HTMLActuator.prototype.addTile = function (tile) {
         512 :  '前端架构师',
         1024 : '出任CEO',
         2048 : '迎娶白富美',
-        4096 : '人生巅峰'
-    }
+        4096 : '迈向人生巅峰'
+    };
 
   var self = this;
 
